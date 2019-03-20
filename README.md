@@ -10,7 +10,7 @@ The robot will traverse the field represented by the arena using image processin
 
 
 ![alt text](https://github.com/sona-19/eYantra/blob/master/eyantra%202017-2018/pic.PNG)
-
+![alt text](https://github.com/sona-19/eYantra/blob/master/Selection_009.png)
 The bot also detects the coloured markers in the run - their shape, color and number and overlays the corresponding image on the overlay image as shown:
 
 ![alt text](https://github.com/sona-19/eYantra/blob/master/eyantra%202017-2018/overlay.PNG)
