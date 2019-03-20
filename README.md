@@ -4,4 +4,8 @@ A bot that follows black line on a white surface using video analytics and image
 
 ![alt text](https://github.com/sona-19/eYantra/blob/master/Selection_007.png)
 
+The frame is divided into tw
+![alt text](https://github.com/sona-19/eYantra/blob/master/eyantra%202017-2018/angle.PNG)
 
+
+![alt text](https://github.com/sona-19/eYantra/blob/master/eyantra%202017-2018/overlay.PNG)
