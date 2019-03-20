@@ -9,6 +9,6 @@ The robot will traverse the field represented by the arena using image processin
 ● Then the shift between the midpoint of element and the centroid of the contour with maximum area helps us to identify the direction and the intensity of the turn. For this a vertical line in the middle of the frame is drawn. The distances between the centroid of all the 4 contours of the image-parts and the middle line is calculated. If the centroid is in the left, then its distance is taken to be negative and if the centroid lies to the right of the middle line, then its distance is taken to be positive. The sum of all the four distances is calculated. The sign of the sum gives us the direction and the magnitude of the sum gives the intensity of the turn.
 
 ![alt text](https://github.com/sona-19/eYantra/blob/master/eyantra%202017-2018/angle.PNG)
-
+![alt text](https://github.com/sona-19/eYantra/blob/master/eyantra%202017-2018/pic.PNG)
 
 ![alt text](https://github.com/sona-19/eYantra/blob/master/eyantra%202017-2018/overlay.PNG)
